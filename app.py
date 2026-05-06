@@ -362,6 +362,6 @@ else:
         <p style="color: #475569; font-size: 1.05rem; max-width: 700px; margin: 0 auto 20px auto;">
         Le secret d'une alternance réussie réside dans un sourcing millimétré et un suivi académique rigoureux. Confiez-nous vos prochains recrutements pour sécuriser vos investissements RH et garantir le succès de vos alternants.
         </p>
-        <a href="https://www.formasup.fr" target="_blank" style="background-color: #0077B6; color: white; text-decoration: none; padding: 12px 24px; border-radius: 8px; font-weight: 600; display: inline-block;">Prendre rendez-vous avec un conseiller</a>
+        <a href="https://formasup-arl.fr/contact/" target="_blank" style="background-color: #0077B6; color: white; text-decoration: none; padding: 12px 24px; border-radius: 8px; font-weight: 600; display: inline-block;">Prendre rendez-vous avec un conseiller</a>
     </div>
     """, unsafe_allow_html=True)
